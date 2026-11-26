@@ -1,5 +1,7 @@
 # LabelRoom
 
+**Live:** https://labelroom.app.space
+
 A live room where a small team grades LLM outputs **blind** and sees, as they go, whether they actually agree.
 Each rater scores the same outputs without seeing anyone else's label for an item until they've submitted their own.
 The room shows Cohen's κ for every pair of raters, flags items where the humans split, and gives each split a
